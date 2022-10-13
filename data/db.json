@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "bookname": "Noli Me Tangere",
+            "author": "Jose Rizal ",
+            "genre": "Historical"
+            
+        },
+        {
+            "bookname": "The Daughter's Tale",
+            "author": "Armando Lucas",
+            "genre": "Fairy tale"
+          
+        },
+        {
+            "bookname": "Gorgeous Lies",
+            "author": "Martha Mcphee",
+            "genre": "Romance"
+            
+        },
+        {
+            "bookname": "All The Missing Girls ",
+            "author": "Megan Miranda",
+            "genre": "Mystery"
+           
+        }
+    ]
+}
